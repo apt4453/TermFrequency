@@ -1,0 +1,124 @@
+1,2016-04-06 20:18,10.0,ISMM-1 SNIPER and sleep( (Blind SQL Sleep() Query Injection Vul-3),e3=9:e15=1:e16=1:e18=6:e32=4:e34=2:e55=13:e60=2:e62=4:e69=3:e84=5:e89=15:e90=8:e105=1:e122=30,104
+2,2016-04-06 20:57,10.0,ISMM-1 SNIPER and sleep( (Blind SQL Sleep() Query Injection Vul-3),e3=1:e18=4:e32=3:e34=2:e55=10:e62=4:e69=2:e84=5:e89=3:e90=1:e122=31,66
+3,2016-04-06 21:05,10.0,ISMM-1 SNIPER and sleep( (Blind SQL Sleep() Query Injection Vul-3),e3=6:e18=4:e32=1:e34=1:e55=4:e62=3:e84=6:e89=3:e122=27,55
+4,2016-04-06 21:12,10.0,ISMM-1 SNIPER and sleep( (Blind SQL Sleep() Query Injection Vul-3),e3=7:e18=5:e32=1:e34=1:e55=9:e62=4:e84=1:e89=8:e122=33,69
+5,2016-04-07 03:24,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=2:e60=2:e62=4:e69=8:e84=12:e90=7:e118=1:e122=1,37
+6,2016-04-07 10:09,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=10:e34=1:e55=15:e62=4:e69=7:e74=2:e84=7:e89=1:e90=21:e122=20,88
+7,2016-04-08 01:10,10.0,ISMM-1 SNIPER JBoss EAP jmx authentication bypass.B,e30=5:e34=1:e62=3:e69=11:e84=4,24
+8,2016-04-09 11:00,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=7:e55=1:e56=1:e62=3:e69=5:e74=1:e84=8:e89=6:e90=14:e120=2:e122=10,58
+9,2016-04-13 06:09,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e32=1:e34=3:e55=1:e62=3:e69=10:e84=9:e89=2:e90=12:e122=11,52
+10,2016-04-14 00:37,10.0,ISMM-1 SNIPER Directory Traversal Attack(/../../../) Directory_Traversal,e30=1:e34=3:e62=3:e69=9:e74=2:e84=17:e90=5:e94=1,41
+11,2016-04-14 22:04,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e10=1:e34=1:e55=10:e62=3:e66=1:e69=13:e89=2:e90=17:e122=15,63
+12,2016-04-14 22:04,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e10=1:e34=1:e55=10:e62=3:e66=1:e69=13:e89=2:e90=17:e122=15,63
+13,2016-04-14 22:21,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=2:e55=1:e62=2:e69=1:e84=1:e89=2:e90=9:e122=7,25
+14,2016-04-15 08:18,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e18=5:e32=2:e55=1:e62=3:e65=3:e69=4:e76=1:e84=1:e89=1:e92=2:e111=13:e122=22,58
+15,2016-04-16 02:34,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=1:e62=3:e69=11:e74=1:e90=6,22
+16,2016-04-16 07:29,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=5:e55=3:e62=3:e69=13:e84=1:e89=3:e90=1:e111=8:e122=10,47
+17,2016-04-16 08:00,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=2:e34=1:e55=4:e62=4:e69=7:e74=1:e84=3:e89=3:e90=4:e111=7:e122=25,61
+18,2016-04-16 10:36,10.0,ISMM-1 SNIPER javascript: Cross_Site_Scripting,e18=12:e32=1:e34=2:e54=1:e55=4:e60=1:e62=4:e69=14:e84=5:e89=5:e92=1:e120=2:e122=10,62
+19,2016-04-16 17:17,10.0,ISMM-1 SNIPER union all select (SQL Query Injection Vulnerability(union all select)) WEB_APP_VULNERABILITY,e18=5:e55=3:e60=1:e62=3:e69=5:e74=1:e89=2:e102=1:e122=19,40
+20,2016-04-19 00:30,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=3:e62=2:e69=9:e89=1:e90=9:e122=2,26
+21,2016-04-20 17:38,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e2=1:e18=12:e32=3:e55=13:e62=3:e65=1:e69=2:e84=3:e89=12:e90=6:e92=1:e93=2:e122=59,118
+22,2016-04-20 18:39,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=15:e32=4:e34=7:e55=12:e56=1:e62=4:e69=6:e74=1:e89=22:e90=2:e112=1:e122=92,167
+23,2016-04-22 21:58,10.0,ISMM-1 SNIPER GNU bash Environment Variable Command Injection.C,e15=1:e18=3:e19=12:e32=1:e34=3:e55=6:e62=4:e69=5:e75=10:e84=2:e89=1:e90=4:e122=16,68
+24,2016-04-24 11:47,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=2:e30=8:e32=1:e34=1:e55=2:e62=3:e69=4:e75=12:e84=9:e90=13:e122=7,62
+25,2016-04-25 01:13,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability APP_VULNERABILITY,e34=2:e62=3:e64=10:e69=7:e122=7,29
+26,2016-04-26 01:01,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=1:e56=1:e62=3:e69=4:e84=1:e90=6:e122=1,17
+27,2016-04-26 01:55,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=1:e62=3:e69=6:e90=7:e103=2:e122=2,21
+28,2016-04-26 04:18,10.0,ISMM-1 SNIPER Directory Traversal Attack(/../../../) Directory_Traversal,e34=1:e56=1:e62=3:e64=7:e69=4:e94=1:e122=1,18
+29,2016-04-26 04:47,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability APP_VULNERABILITY,e18=1:e34=3:e45=1:e55=1:e62=3:e64=9:e69=10:e122=2,30
+30,2016-04-26 17:35,10.0,ISMM-1 SNIPER GNU bash Environment Variable Command Injection.C,e18=18:e28=1:e32=3:e55=13:e69=1:e74=1:e89=12:e92=1:e122=39,89
+31,2016-04-26 17:35,10.0,ISMM-1 SNIPER GNU bash Environment Variable Command Injection.C,e18=18:e28=1:e32=3:e55=13:e69=1:e74=1:e89=12:e92=1:e122=39,89
+32,2016-04-27 12:27,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e2=1:e11=2:e18=27:e30=3:e32=2:e34=2:e55=28:e69=6:e89=17:e90=11:e91=1:e92=1:e93=1:e122=118,220
+33,2016-04-27 12:34,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e2=4:e18=25:e28=1:e30=8:e32=1:e34=2:e55=28:e65=1:e69=6:e84=1:e89=19:e90=11:e92=2:e93=2:e122=110,221
+34,2016-04-28 07:54,10.0,ISMM-1 SNIPER DECLARE @ Sql_Injection,e18=5:e26=2:e32=1:e34=3:e55=3:e64=1:e65=9:e69=6:e84=3:e89=1:e111=12:e122=23,69
+35,2016-04-28 09:42,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability APP_VULNERABILITY,e18=12:e26=6:e32=1:e34=1:e55=6:e64=10:e65=4:e69=10:e74=3:e84=1:e105=1:e122=49,104
+36,2016-04-30 06:25,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e32=1:e34=4:e55=2:e69=5:e75=1:e76=4:e89=3:e122=8,28
+37,2016-04-30 09:21,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e18=5:e19=1:e32=1:e34=4:e55=3:e69=5:e74=2:e75=6:e84=5:e89=2:e111=10:e122=27,71
+38,2016-05-01 13:08,10.0,ISMM-1 SNIPER Server Side Script File Upload(PHP) WebShell_Detect,e30=7:e32=1:e34=2:e55=5:e69=4:e74=1:e84=1:e89=2:e122=17,40
+39,2016-05-02 04:47,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=8:e31=11:e34=3:e53=1:e69=4:e74=1:e90=5:e122=1,34
+40,2016-05-02 09:22,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e18=9:e26=4:e34=5:e55=2:e65=12:e69=9:e74=9:e76=1:e81=1:e105=1:e111=1:e122=32,86
+41,2016-05-02 12:56,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e2=2:e18=78:e26=1:e30=5:e55=19:e65=3:e69=9:e74=2:e80=1:e89=19:e90=3:e92=2:e115=2:e122=104,250
+42,2016-05-02 15:22,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e2=1:e15=1:e18=53:e26=4:e28=10:e32=4:e34=1:e55=22:e65=10:e69=2:e74=3:e89=15:e92=3:e93=9:e115=3:e122=93,234
+43,2016-05-02 21:09,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=2:e32=3:e55=8:e89=3:e90=1:e122=10,27
+44,2016-05-03 18:09,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e18=11:e28=1:e30=7:e32=2:e34=1:e55=12:e69=3:e74=1:e84=5:e89=11:e92=1:e118=1:e122=50,106
+45,2016-05-04 00:47,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e34=2:e35=6:e69=11:e84=5:e122=8,32
+46,2016-05-04 08:55,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e18=6:e26=1:e34=3:e35=6:e55=3:e56=1:e65=7:e69=5:e74=5:e89=1:e92=1:e98=3:e111=5:e122=25,72
+47,2016-05-05 07:24,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e32=4:e34=2:e56=1:e69=8:e74=2:e111=12:e120=2:e122=3,34
+48,2016-05-05 11:46,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e30=9:e69=12:e84=4:e90=4:e122=5,34
+49,2016-05-06 06:53,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e34=2:e55=2:e69=5:e74=1:e84=13:e122=6,29
+50,2016-05-06 08:05,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e2=1:e18=2:e32=3:e34=4:e69=7:e84=8:e89=3:e92=1:e93=1:e111=7:e122=16,53
+51,2016-05-07 01:28,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e32=1:e69=6:e90=10:e122=2,19
+52,2016-05-07 02:09,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=3:e36=1:e56=1:e69=6:e84=1:e90=3,15
+53,2016-05-07 02:46,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=6:e69=5:e84=1:e90=2:e122=1,15
+54,2016-05-07 03:35,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=2:e69=15:e84=1:e90=7,25
+55,2016-05-07 03:36,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=2:e69=15:e84=1:e90=9,27
+56,2016-05-07 11:20,10.0,ISMM-1 SNIPER -d allow_url_include=On (PHP 'php-cgi' query string parameter vul.B) WEB_APP_VULNERABILITY,e18=4:e23=1:e30=17:e34=2:e55=1:e69=7:e89=1:e120=2:e122=10,45
+57,2016-05-07 12:06,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e30=10:e34=3:e55=5:e69=12:e74=1:e80=1:e89=3:e90=10:e118=1:e120=2:e122=7,55
+58,2016-05-07 12:11,10.0,ISMM-2 SNIPER applist.asp WEB_APP_VULNERABILITY,e30=11:e34=4:e55=1:e69=6:e74=1:e84=6:e89=2:e90=11:e118=3:e120=4:e122=12,61
+59,2016-05-07 23:42,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e34=3:e69=8:e84=11,22
+60,2016-05-10 10:40,10.0,ISMM-2 SNIPER applist.asp WEB_APP_VULNERABILITY,e18=13:e30=8:e55=6:e69=8:e90=7:e122=25,67
+61,2016-05-10 14:08,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e11=2:e13=1:e16=1:e18=39:e26=7:e32=2:e34=3:e47=3:e55=30:e56=6:e65=10:e69=13:e74=12:e75=11:e84=1:e89=24:e91=7:e92=8:e93=4:e101=3:e115=4:e122=102,293
+62,2016-05-10 23:46,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=1:e34=1:e69=6:e84=1:e90=2,11
+63,2016-05-11 00:34,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=1:e69=5:e84=1:e90=5:e122=1,13
+64,2016-05-11 11:04,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=14:e26=4:e30=11:e32=1:e34=2:e55=11:e65=6:e69=13:e89=4:e90=1:e98=1:e122=40,108
+65,2016-05-12 10:35,10.0,ISMM-1 SNIPER -d allow_url_include=On (PHP 'php-cgi' query string parameter vul.B) WEB_APP_VULNERABILITY,e18=8:e23=2:e34=1:e55=5:e69=17:e74=1:e122=13,47
+66,2016-05-12 16:33,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e18=27:e32=2:e34=2:e55=12:e69=7:e74=1:e89=10:e92=2:e105=3:e115=2:e122=62,130
+67,2016-05-13 13:54,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e2=1:e16=1:e18=27:e26=2:e28=2:e34=6:e54=1:e55=35:e56=1:e65=2:e69=9:e74=2:e84=6:e89=30:e90=13:e92=7:e115=3:e122=102,250
+68,2016-05-14 00:24,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=1:e34=3:e69=7:e90=10:e120=2:e122=7,30
+69,2016-05-14 12:40,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e18=1:e30=8:e34=5:e69=14:e74=3:e84=7:e89=1:e122=11,50
+70,2016-05-15 08:11,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e30=10:e69=8:e89=3:e111=10:e122=5,36
+71,2016-05-15 15:06,10.0,ISMM-1 SNIPER union all select (SQL Query Injection Vulnerability(union all select)) WEB_APP_VULNERABILITY,e16=3:e18=4:e32=2:e34=1:e39=1:e55=6:e69=7:e74=1:e84=6:e89=2:e121=9:e122=11,53
+72,2016-05-15 15:12,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability APP_VULNERABILITY,e16=2:e34=1:e39=1:e45=1:e55=7:e69=8:e74=2:e84=3:e89=1:e121=10:e122=10,46
+73,2016-05-15 23:59,10.0,ISMM-1 SNIPER -d allow_url_include=On (PHP 'php-cgi' query string parameter vul.B) WEB_APP_VULNERABILITY,e23=2:e34=2:e69=8:e74=1:e122=3,16
+74,2016-05-16 00:47,10.0,ISMM-1 SNIPER and sleep( (Blind SQL Sleep() Query Injection Vul-3),e3=5:e69=4:e84=5,14
+75,2016-05-16 02:09,10.0,ISMM-1 SNIPER and sleep( (Blind SQL Sleep() Query Injection Vul-3),e3=4:e32=1:e33=6:e49=1:e69=9:e74=2:e90=14:e112=8,45
+76,2016-05-16 10:13,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=9:e34=3:e55=6:e66=1:e69=1:e74=4:e84=1:e90=17:e122=18,60
+77,2016-05-16 12:12,10.0,ISMM-1 SNIPER and sleep( (Blind SQL Sleep() Query Injection Vul-3),e3=1:e18=43:e26=2:e28=1:e30=4:e32=1:e34=4:e55=24:e65=1:e69=6:e74=4:e89=15:e90=2:e91=1:e92=2:e122=72:e124=1,184
+78,2016-05-16 12:40,10.0,ISMM-1 SNIPER and sleep( (Blind SQL Sleep() Query Injection Vul-3),e2=3:e3=5:e18=45:e26=1:e27=1:e28=2:e30=8:e34=1:e54=1:e55=25:e65=4:e69=13:e74=17:e80=1:e89=14:e91=1:e92=1:e93=1:e115=1:e122=87:e124=1,233
+79,2016-05-16 12:56,10.0,ISMM-1 SNIPER and sleep( (Blind SQL Sleep() Query Injection Vul-3),e2=1:e3=6:e18=40:e26=4:e28=1:e29=1:e30=3:e34=3:e55=25:e65=3:e69=4:e74=4:e81=1:e89=20:e92=2:e115=1:e122=98:e124=1,218
+80,2016-05-17 17:43,10.0,ISMM-1 SNIPER PHP WebShell Backdoor-2 WebShell_Detect,e1=2:e15=3:e18=27:e54=1:e55=15:e69=9:e74=2:e84=7:e89=9:e118=1:e122=47,123
+81,2016-05-18 06:59,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e26=2:e28=1:e34=1:e65=1:e69=5:e84=1:e92=1:e122=24,36
+82,2016-05-20 06:42,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e18=1:e32=2:e34=12:e55=1:e56=1:e65=4:e69=10:e74=9:e84=8:e122=13,61
+83,2016-05-21 00:01,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=2:e55=2:e56=1:e69=7:e84=7:e89=1:e90=24,44
+84,2016-05-21 00:04,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=4:e55=1:e56=1:e69=8:e84=6:e90=24,44
+85,2016-05-21 00:31,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=2:e69=3:e75=1:e84=1:e90=16:e122=4,27
+86,2016-05-21 00:49,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=1:e34=2:e69=7:e90=39,49
+87,2016-05-21 01:23,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=2:e69=1:e90=22,25
+88,2016-05-21 13:14,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=2:e30=2:e34=1:e55=1:e69=3:e75=1:e90=15:e122=18,43
+89,2016-05-25 06:50,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e18=3:e26=6:e29=1:e32=2:e34=3:e55=3:e65=6:e69=12:e74=15:e76=2:e89=1:e98=1:e122=24,79
+90,2016-05-27 00:50,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=5:e69=22:e74=1:e84=2:e90=1,31
+91,2016-06-01 12:24,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=42:e30=7:e32=2:e34=1:e55=35:e69=2:e74=1:e89=14:e90=39:e91=1:e92=2:e115=2:e122=115,263
+92,2016-06-01 16:28,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e16=1:e18=32:e28=1:e30=1:e32=1:e34=2:e55=9:e69=4:e84=1:e89=9:e90=5:e92=1:e122=27,94
+93,2016-06-01 16:33,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e2=1:e18=27:e28=1:e30=1:e32=1:e34=1:e55=13:e69=5:e74=1:e84=4:e89=10:e90=24:e122=34,123
+94,2016-06-01 16:49,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=27:e32=3:e34=2:e55=26:e65=1:e69=5:e74=2:e84=5:e89=9:e90=46:e92=2:e115=2:e120=2:e122=64,196
+95,2016-06-01 16:57,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e16=3:e18=29:e32=4:e34=1:e55=18:e65=1:e69=1:e84=5:e89=7:e90=51:e92=2:e115=1:e122=63,186
+96,2016-06-01 20:21,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e30=8:e32=2:e34=1:e55=18:e69=5:e84=11:e89=7:e90=23:e105=2:e122=33,110
+97,2016-06-01 20:40,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=6:e30=7:e32=2:e34=2:e55=20:e69=3:e84=9:e89=5:e90=14:e91=1:e92=1:e122=34,104
+98,2016-06-03 10:03,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=7:e32=1:e34=1:e55=2:e69=6:e74=2:e75=4:e84=16:e90=39:e122=25,103
+99,2016-06-03 10:18,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e15=1:e18=10:e29=1:e34=3:e55=8:e69=13:e74=3:e75=2:e84=16:e90=17:e122=41,115
+100,2016-06-03 12:40,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e15=1:e18=27:e29=1:e30=5:e32=1:e34=2:e54=1:e55=29:e56=8:e69=16:e74=3:e75=9:e84=6:e89=16:e90=8:e91=2:e92=2:e98=3:e115=1:e122=58,199
+101,2016-06-04 00:02,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=2:e55=1:e69=3:e84=7:e90=40,53
+102,2016-06-04 01:52,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e27=1:e34=1:e69=4:e74=1:e84=10:e90=29:e120=2,48
+103,2016-06-04 12:17,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e30=9:e34=1:e55=3:e69=13:e74=1:e84=10:e89=3:e90=19:e122=16,75
+104,2016-06-04 14:02,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=5:e34=2:e69=10:e84=14:e89=2:e90=29:e105=1:e122=6,69
+105,2016-06-04 15:43,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=1:e32=1:e55=1:e69=1:e84=10:e89=2:e90=17:e92=5:e122=9,47
+106,2016-06-05 00:15,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e34=1:e69=6:e74=1:e75=12:e84=9:e90=39,68
+107,2016-06-05 18:19,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e32=2:e34=1:e55=1:e69=5:e84=1:e89=1:e90=25:e122=6,42
+108,2016-06-06 12:15,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=2:e30=6:e34=2:e55=5:e69=5:e84=2:e89=2:e90=19:e92=2:e122=16,61
+109,2016-06-06 12:20,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=1:e30=6:e32=2:e34=1:e55=5:e69=8:e74=1:e81=1:e84=2:e89=4:e90=16:e122=23,70
+110,2016-06-06 14:45,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=1:e34=1:e55=1:e69=2:e89=4:e90=4:e122=17,30
+111,2016-06-07 23:57,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e18=3:e29=1:e34=1:e69=13:e84=2,20
+112,2016-06-09 17:05,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e18=24:e32=5:e34=2:e50=2:e54=1:e55=20:e69=7:e84=13:e89=12:e92=1:e122=63,150
+113,2016-06-10 10:14,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=4:e32=1:e34=3:e55=1:e69=11:e84=2:e89=1:e90=10:e105=1:e122=14,48
+114,2016-06-10 14:26,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e2=1:e11=2:e18=42:e26=6:e28=2:e29=1:e32=3:e34=1:e55=22:e65=10:e69=14:e74=1:e84=7:e89=18:e90=27:e92=1:e93=3:e115=1:e118=5:e122=66,233
+115,2016-06-10 17:37,10.0,ISMM-1 SNIPER SQL Query Injection Vulnerability(;DECLARE%20@) Sql_Injection,e18=30:e55=5:e69=3:e74=2:e75=3:e84=1:e89=4:e90=19:e122=21,88
+116,2016-06-11 19:52,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e18=2:e32=2:e34=6:e48=1:e55=1:e69=4:e84=1:e89=1:e120=2:e122=3,23
+117,2016-06-12 09:54,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e34=4:e48=4:e55=4:e69=10:e89=3:e122=6,31
+118,2016-06-13 20:58,10.0,ISMM-1 SNIPER union all select (SQL Query Injection Vulnerability(union all select)) WEB_APP_VULNERABILITY,e18=4:e29=1:e32=3:e34=4:e55=7:e72=2:e84=4:e97=2:e121=6:e122=13:e125=2,48
+119,2016-06-14 08:59,10.0,ISMM-2 SNIPER applist.asp WEB_APP_VULNERABILITY,e18=11:e26=3:e32=1:e34=2:e55=2:e65=7:e69=3:e74=2:e84=2:e89=2:e111=6:e122=8,49
+120,2016-06-17 07:22,10.0,ISMM-2 SNIPER applist.asp WEB_APP_VULNERABILITY,e18=6:e26=5:e28=2:e32=2:e34=2:e55=2:e65=8:e69=8:e74=1:e84=10:e89=1:e93=1:e111=13:e122=18,79
+121,2016-06-24 15:50,10.0,ISMM-1 SNIPER union all select (SQL Query Injection Vulnerability(union all select)) WEB_APP_VULNERABILITY,e2=2:e11=2:e18=26:e26=1:e28=3:e29=2:e32=1:e34=4:e36=1:e55=13:e65=5:e69=8:e74=6:e84=26:e89=2:e93=3:e122=46,151
+122,2016-06-26 08:05,10.0,ISMM-1 SNIPER Server Side Script File Upload(PHP) WebShell_Detect,e18=1:e34=4:e53=1:e55=3:e60=4:e69=11:e89=1:e111=6:e122=2,33
+123,2016-06-29 09:25,10.0,ISMM-1 SNIPER Joomla HTTP Header Remote Code Execution,e18=14:e26=32:e55=8:e65=12:e69=2:e74=10:e76=8:e84=15:e122=43,144
+124,2016-06-30 06:57,10.0,ISMM-1 SNIPER Directory Traversal Attack(/../../../) Directory_Traversal,e18=4:e26=5:e55=4:e56=1:e65=8:e69=12:e84=9:e98=1:e122=51,95
